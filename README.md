@@ -41,17 +41,19 @@
 
 <div align="center">
   
-```javascript
+<script>
 const robel = {
     role: "Full Stack Engineer",
-    experience: "5+ years",
+    experience: "3+ years",
     location: "🌍 Remote",
     
     frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-    backend: ["Node.js", "Python", "PHP", "Express"],
+    backend: ["Node.js", "Python", "PHP", "Express","go"],
     database: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
     devops: ["Docker", "AWS", "GitHub Actions", "Vercel"],
     
     currentFocus: "Building scalable full-stack applications",
     funFact: "I write code that users love and servers appreciate"
 };
+</script>
+</div>
